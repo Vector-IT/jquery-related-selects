@@ -1,10 +1,12 @@
 /*
  * jQuery Related Selects plug-in 1.1
  *
- * http://www.erichynds.com/jquery/jquery-related-dependent-selects-plugin/
+ * https://github.com/Vector-IT/jquery-related-selects
+ * 
+ * Forked from 
  * http://github.com/ehynds/jquery-related-selects
  *
- * Copyright (c) 2009 Eric Hynds
+ * Copyright (c) 2009 Eric Hynds, 2018 Vector-IT
  *
  * Dual licensed under the MIT and GPL licenses:
  *   http://www.opensource.org/licenses/mit-license.php
