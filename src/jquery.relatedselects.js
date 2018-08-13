@@ -160,7 +160,7 @@
 		function resetAfter(elem){
 			var thispos = getPosition(elem);
 			for (var x=thispos+1, len=selects.length; x<len; x++){
-				$("select[name='" + selects[x] + "']", $context ).attr('disabled','disabled').find('option:first').attr('selected','selected');
+				$("select[name='" + selects[x] + "']", $context ).attr('disabled','disabled').find('option:first').prop('selected','selected');
 			}
 		}
 		
